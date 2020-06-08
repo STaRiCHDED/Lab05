@@ -24,7 +24,7 @@ $ cd ${GITHUB_USERNAME}/workspace
 $  pushd .
 ~/STaRiCHDED/workspace ~/STaRiCHDED/workspace
 $ source scripts/activate
-$ $ git clone https://github.com/${GITHUB_USERNAME}/Lab04 projects/Lab05
+$ git clone https://github.com/${GITHUB_USERNAME}/Lab04 projects/Lab05
 $ cd projects/Lab05
 $ git remote remove origin
 $ git remote add origin https://github.com/${GITHUB_USERNAME}/Lab05
